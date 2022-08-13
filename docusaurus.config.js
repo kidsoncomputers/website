@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Kids on Computers',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Bringing the world to kids in developing countries.',
   url: 'https://kidsoncomputers.github.io',
   baseUrl: '/website/',
   onBrokenLinks: 'throw',
