@@ -9,7 +9,7 @@ const config = {
   title: 'Kids on Computers',
   tagline: 'Dinosaurs are cool',
   url: 'https://kidsoncomputers.github.io',
-  baseUrl: '/website',
+  baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
