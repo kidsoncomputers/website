@@ -1,0 +1,29 @@
+---
+title: Tehuacán 
+sidebar_position: 7
+---
+# Tehuacán, Puebla
+
+## Colegio Británico
+
+![Colegio Británico](/img/mexico/colegio_britanico.jpg)
+
+Colegio Británico is a school which has two locations in the city of Tehuacán, Puebla, Mexico. Sección Primeria is the elementary school for grades 1 through 6 and is located near the Mesoamerican University.
+
+Colegio Británico sección Jardín de Niños is the equivalent of a U.S. kindergarten and is near the city center, about 3 km distant from Sección Primeria.
+
+There are about 90 students in the sección Primeria and about 140 children in the kindergarten. Scholarships are available to children whose families cannot afford the tuition. Most students continue on to middle school.
+
+Kids on Computers® learned of Colegio Británico in autumn of 2011. A friend of some of the Kids on Computers® volunteers living in Northern Colorado was telling us about her mother’s school in Tehuacán. At about that same time, a school in California donated 70 very similar laptops to us. We decided that those laptops would be a good fit for Colegio Británico’s needs and the Board of Directors approved. We set a goal to get as many as possible ready to deliver by Christmas.
+
+Twenty of the laptops were selected randomly and shipped to Northern Colorado to be prepared for Colegio Británico. The laptops were tested, refurbished as necessary, and configured with Edubuntu. The first six were ready to deliver by Christmas 2011. Those six were hand carried from Colorado to Tehuacán when family members visited for Christmas. We learned that it was very cost effective, but not necessarily the quickest way to transport laptops.
+
+Colegio Británico received those six laptops and had them installed in classrooms in January 2012. More laptops were configured and hand carried to Mexico later that year. Colegio Británico now has a total of nineteen laptops donated by Kids on Computers®. All have been hand carried from Colorado to the school by friends and family of the school directors.
+
+The children’s enthusiasm is obvious in these photos.
+
+The success of the Colegio Británico computer classes inspired a financial donation from the Parents Board. That donation was used locally to purchase more computers for the sección Primeria.
+
+Class is in session at Colegio Británico. The computer instructor guides the children toward computer literacy. He also is responsible for teaching other instructors and administrative staff.
+
+Even in the Colegio Británico kindergarten, pre-school children have the opportunity to use the computers that Kids on Computers® provided. The operating system they see is much simpler and more entertaining to children at their level than Edubuntu which the older children received. However they are just as fascinated as the older children are to learn how to use their computer. With proper teaching and ongoing support they will soon be ready for more advanced exercises.

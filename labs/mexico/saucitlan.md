@@ -1,0 +1,23 @@
+---
+title: Saucitlán de Morelos
+sidebar_position: 2
+---
+# Saucitlán de Morelos, Oaxaca
+
+## Gittes Family Lab at Escuela Manuel Gonzalez Gatica
+
+![Escuela Manuel Gonzalez Gatica](/img/mexico/escuela_manuel_gonzales_gatica_1.jpg)
+
+Saucitlán de Morelos is a community of about 500 people located in a valley about 12 km southwest of Huajuapan de León, Oaxaca, Mexico.
+
+The final road to Saucitlán is unpaved and steep in many places. Close to the village, it is not unusual to find domesticated animals wandering on the road or even the streets.
+
+The computer lab in Saucitlan’s primary school, Escuela Manuel Gonzalez Gatica, was initially established in May 2011. In that year five Kids on Computers® volunteers had traveled to Huajuapan de León along with local volunteers. A local bank had donated fifteen computers to the school. When we arrived at the school we discovered that the bank had removed the hard drives from the donated computers. After assessing the situation and the equipment we had available to us, we decided to establish server-client configurations using LTSP. We took four other computers which had hard drives, and used them as servers. We configured the computers without hard drives as clients, then completed installation and configuration.
+
+To maintain this type of setup requires having strong local technical support. Additionally, many of these computers were over 10 years old. When we came back during our 2014 KOC Mexico trip, the lab was in disuse. We realized that an LTSP setup in a remote region with little technical support would not work.
+
+We used funds we received from our 2013 Fundraising drive to purchase five new computers, one projector, and five headphones for this lab. We used the four computers which had hard drives and made them standalone desktops. We were also able to bring in 4 additional used computers along with two Mac Minis to make for a total of fifteen working computers. All of the computers were installed with Lubuntu 14.04, Libre Office, Tux Suite, GCompris Suite, and many other applications. The Mac Minis and one new computer were also installed with the RACHEL content server which includes offline Wikipedia, Khan Academy videos, MedLine content, and more. All of the computers could access this content via a local network we set up. We decided to put 12 of the computers in the school and use 3 in the library so that kids and parents could benefit from the computers outside of school time. The computers without hard drives were decommissioned.
+
+The computer lab currently in place at this school was made possible by a very generous donation. Kids on Computers® had recognized that $10,000 USD would fund one entire computer lab. We announced that a donor giving at that level would have the privilege of naming the computer lab. In 2011 we received such a donation from Philip Greenspun. This donation allowed us to buy 22 computers which we distributed throughout four labs, 2 projectors, 2 DVD burners, headphones, and other peripherals. In 2013 the computer lab at Escuela Manuel Gonzalez Gatica was renamed in memory of Daniel “Nick” Gittes (1902-2000) of Melrose, Massachusetts.
+
+![Escuela Manuel Gonzalez Gatica](/img/mexico/gittes_family_lab_1.jpg)
