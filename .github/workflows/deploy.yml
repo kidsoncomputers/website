@@ -15,9 +15,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v3
         with:
-          node-version: 18
-          cache: yarn
+          node-version: 19
 
+      - name: Enable corepack
+        run: corepack enable
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - name: Build website
