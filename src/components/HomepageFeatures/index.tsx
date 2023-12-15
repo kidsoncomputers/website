@@ -10,32 +10,36 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'About',
+    Svg: require('@site/static/img/about.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Kids on Computers (KoC) is an all­-volunteer organization registered in Colorado since 2009
+        as a 501(c)(3) non­profit organization. We set up computer labs in low-income schools using
+        both donated and new hardware.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Donate',
+    Svg: require('@site/static/img/donation.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Kids on Computers seeks donations and help in a variety of forms. To advance our mission we
+        accept monetary donations as well as bulk computer/laptop donations. Cash donations – of any amount
+        – are always useful and...
+
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Our Labs',
+    Svg: require('@site/static/img/school.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        One of the most rewarding parts of being a KoC volunteer is seeing a lab come to fruition.  The
+        local communities (parents, teachers, and students) are all very appreciative and excited to have
+        access to computer technology. Volunteer with us to help bring these labs to life!
       </>
     ),
   },
@@ -55,6 +59,20 @@ function Feature({title, Svg, description}: FeatureItem) {
   );
 }
 
+function KoCMap() {
+  return (
+    <div className={clsx('col col--8')}>
+      <div className={styles.kocmapContainer}>
+        <iframe className={styles.kocmapIframe}
+          loading="lazy"
+          src="https://www.google.com/maps/d/embed?mid=1n_5zIuBe7Qv3NqQ0ABVcYZ0NABs&amp;hl=en"
+          ></iframe>
+        </div>
+    </div>
+  );
+
+}
+
 export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
@@ -64,7 +82,12 @@ export default function HomepageFeatures(): JSX.Element {
             <Feature key={idx} {...props} />
           ))}
         </div>
+        <div className="row">
+          <div className={clsx('col col--2')}></div>
+          <KoCMap />
+          <div className={clsx('col col--2')}></div>
+        </div>
       </div>
     </section>
-  );
+);
 }
