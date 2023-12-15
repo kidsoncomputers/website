@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Kids on Computers',
-    tagline: 'Bringing the world to kids in developing countries.',
+    tagline: 'Bringing technology to underprivileged kids worldwide',
     url: 'https://kidsoncomputers.github.io',
     baseUrl: '/website/',
     onBrokenLinks: 'throw',
@@ -29,24 +29,18 @@ const config = {
 
     presets: [
         [
-            'classic',
+            '@docusaurus/preset-classic',
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
                 docs: {
                     path: './labs',
                     routeBasePath: 'labs',
-                    sidebarPath: require.resolve('./sidebars.js'),
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
-                    editUrl:
-                        'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+                    sidebarPath: require.resolve('./sidebarLabs.js'),
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
-                    editUrl:
-                        'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -55,28 +49,45 @@ const config = {
         ],
     ],
 
+    plugins: [
+        [
+          '@docusaurus/plugin-content-docs',
+          {
+            id: 'about',
+            path: 'about',
+            routeBasePath: 'about',
+            sidebarPath: require.resolve('./sidebarAbout.js'),
+            // ... other options
+          },
+        ],
+        
+      ],
+
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
                 title: 'Kids on Computers',
                 logo: {
-                    alt: 'My Site Logo',
+                    alt: 'Kids on Computers',
                     src: 'img/logo.svg',
                 },
                 items: [
                     {
                         type: 'doc',
-                        docId: 'intro',
+                        docId: 'introLabs',
                         position: 'left',
                         label: 'Labs',
                     },
                     { to: '/blog', label: 'Blog', position: 'left' },
-                    { to: '/donate', label: 'Donate', position: 'left' },
+                    { to: '/get-involved', label: 'Get Involved', position: 'left' },
+                    { to: '/documentation', label: 'Documentation', position: 'left' },
                     {
-                        href: 'https://github.com/facebook/docusaurus',
-                        label: 'GitHub',
+                        type: 'doc',
+                        docId: 'introAbout',
+                        docsPluginId: 'about',
                         position: 'right',
+                        label: 'About',
                     },
                 ],
             },
@@ -84,37 +95,15 @@ const config = {
                 style: 'dark',
                 links: [
                     {
-                        title: 'Links',
-                        items: [
-                            {
-                                label: 'Labs',
-                                to: '/labs/intro',
-                            },
-                        ],
-                    },
-                    {
                         title: 'Community',
                         items: [
                             {
-                                label: 'Stack Overflow',
-                                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-                            },
-                            {
-                                label: 'Discord',
-                                href: 'https://discordapp.com/invite/docusaurus',
+                                label: 'Facebook',
+                                href: 'https://www.facebook.com/kidsoncomputers',
                             },
                             {
                                 label: 'Twitter',
-                                href: 'https://twitter.com/docusaurus',
-                            },
-                        ],
-                    },
-                    {
-                        title: 'More',
-                        items: [
-                            {
-                                label: 'Blog',
-                                to: '/blog',
+                                href: 'https://twitter.com/kidsoncomputers',
                             },
                             {
                                 label: 'GitHub',
@@ -122,8 +111,27 @@ const config = {
                             },
                         ],
                     },
+                    {
+                        title: 'More',
+                        items: [
+                            {
+                                label: 'Contact Us',
+                                href: 'mailto:info@kidsoncomputers.org',
+                            },
+                            {
+                                label: 'KoC PayPal Giving Fund',
+                                href: 'https://www.paypal.com/us/fundraiser/charity/1477257',
+                            },
+                            {
+                                label: 'KoC on Charity Navigator',
+                                href: 'https://www.charitynavigator.org/ein/264329360',
+                            },
+                        ],
+                    },
+
+                    
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} Kids on Computers`,
             },
             prism: {
                 theme: lightCodeTheme,
