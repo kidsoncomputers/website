@@ -82,6 +82,10 @@ export default function HomepageFeatures(): JSX.Element {
             <Feature key={idx} {...props} />
           ))}
         </div>
+
+        <hr></hr>
+        <h3 className="mapHeader">Where We Are</h3>
+
         <div className="row">
           <div className={clsx('col col--2')}></div>
           <KoCMap />
