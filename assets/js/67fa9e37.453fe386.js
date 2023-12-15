@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkko_c_website=self.webpackChunkko_c_website||[]).push([[8521],{3198:e=>{e.exports=JSON.parse('{"title":"Partners","slug":"/category/partners","permalink":"/about/category/partners","navigation":{"previous":{"title":"Page Name","permalink":"/about/our-volunteers/template"},"next":{"title":"Page Name","permalink":"/about/partners/template"}}}')}}]);

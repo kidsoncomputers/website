@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkko_c_website=self.webpackChunkko_c_website||[]).push([[3369],{1546:e=>{e.exports=JSON.parse('{"title":"Bylaws","slug":"/category/bylaws","permalink":"/about/category/bylaws","navigation":{"previous":{"title":"Page Name","permalink":"/about/board-of-directors/template"},"next":{"title":"Page Name","permalink":"/about/bylaws/template"}}}')}}]);
