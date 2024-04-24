@@ -19,7 +19,7 @@ Randy’s current role is Senior Principle Engineer at Optum (part of UnitedHeal
 
 Randy graduated from the University of Utah in 1998 in Computer Science and has actively worked as a software engineer and architect for over two decades.
 
-### Mason
+### Mason Johnson
 #### Secretary
 
 ### Serena Thomas
