@@ -60,8 +60,16 @@ const config = {
             // ... other options
           },
         ],
-        
-      ],
+        [
+            '@docusaurus/plugin-content-docs',
+            {
+              id: 'involved',
+              path: 'get-involved',
+              routeBasePath: 'get-involved',
+              sidebarPath: require.resolve('./sidebarInvolved.js'),
+            },
+        ],
+    ],
 
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -76,11 +84,18 @@ const config = {
                     {
                         type: 'doc',
                         docId: 'introLabs',
+
                         position: 'left',
                         label: 'Labs',
                     },
                     { to: '/blog', label: 'Blog', position: 'left' },
-                    { to: '/get-involved', label: 'Get Involved', position: 'left' },
+                    { 
+                        type: 'doc',
+                        docId: 'introInvolved',
+                        docsPluginId: 'involved',
+                        position: 'left', 
+                        label: 'Get Involved', 
+                    },
                     { to: '/documentation', label: 'Documentation', position: 'left' },
                     {
                         type: 'doc',
