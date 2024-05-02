@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkko_c_website=self.webpackChunkko_c_website||[]).push([[2883],{7124:a=>{a.exports=JSON.parse('{"title":"Ghana","slug":"/category/ghana","permalink":"/labs/category/ghana","navigation":{"previous":{"title":"Lab Name","permalink":"/labs/argentina/template"},"next":{"title":"Lab Name","permalink":"/labs/ghana/template"}}}')}}]);
