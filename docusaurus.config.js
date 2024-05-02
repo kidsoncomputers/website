@@ -1,15 +1,14 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Kids on Computers',
     tagline: 'Bringing technology to underprivileged kids worldwide',
     url: 'https://kidsoncomputers.github.io',
-    baseUrl: '/',
+    baseUrl: '/website/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
@@ -149,8 +148,8 @@ const config = {
                 copyright: `Copyright © ${new Date().getFullYear()} Kids on Computers`,
             },
             prism: {
-                theme: lightCodeTheme,
-                darkTheme: darkCodeTheme,
+                theme: prismThemes.palenight,
+                darkTheme: prismThemes.dracula,
             },
         }),
 };
