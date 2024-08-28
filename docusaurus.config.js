@@ -10,7 +10,7 @@ const config = {
     url: 'https://kidsoncomputers.github.io',
     // Change the following line to '/' from '/website/' based on Docusaurus error 
     // recommendation on 2024/08/28
-    baseUrl: '/website/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
