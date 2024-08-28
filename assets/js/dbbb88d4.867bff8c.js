@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkko_c_website=self.webpackChunkko_c_website||[]).push([[9825],{3065:e=>{e.exports=JSON.parse('{"title":"Kenya","slug":"/category/kenya","permalink":"/labs/category/kenya","navigation":{"previous":{"title":"Morigaon, Assam","permalink":"/labs/india/morigaon"},"next":{"title":"Lab Name","permalink":"/labs/kenya/template"}}}')}}]);
