@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkko_c_website=self.webpackChunkko_c_website||[]).push([[332],{7578:a=>{a.exports=JSON.parse('{"title":"India","slug":"/category/india","permalink":"/labs/category/india","navigation":{"previous":{"title":"Lab Name","permalink":"/labs/ghana/template"},"next":{"title":"Morigaon, Assam","permalink":"/labs/india/morigaon"}}}')}}]);
