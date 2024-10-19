@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-slug: 'new lab criteria'
+slug: 'new-lab-criteria'
 ---
 
 # New Lab Criteria

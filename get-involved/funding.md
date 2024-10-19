@@ -26,4 +26,3 @@ Questions about our Major Funding program? Please contact donations@kidsoncomput
 
 Kids on Computers is a registered 501(c) For U.S. taxpayers, a monetary donation may be tax deductible, but you should consult a qualified tax adviser.
 
-NOTE: If you are using OSX, please use Firefox or Safari to donate as donors have reported issues trying to donate using Chrome. Thank you!
