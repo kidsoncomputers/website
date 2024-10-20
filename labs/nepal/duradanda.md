@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Duradanda, Lamjung District
 
-Kids on Computers® volunteers, in a partnership with CHOICE Humanitarian, traveled to Nepal in 2013. There we established two computer labs in Duradanda, a Village Development Community (VDC) in central Nepal’s Lamjung District. A Kids on Computers® volunteer was familiar with Choice Humanitarian and had previously done a humanitarian trip to Nepal as part of Choice Humanitarian.
+Kids on Computers® volunteers, in a partnership with [CHOICE Humanitarian](https://choicehumanitarian.org/), traveled to Nepal in 2013. There we established two computer labs in Duradanda, a Village Development Community (VDC) in central Nepal’s Lamjung District. A Kids on Computers® volunteer was familiar with Choice Humanitarian and had previously done a humanitarian trip to Nepal as part of Choice Humanitarian.
 
 Discussion between Kids on Computers® and Choice Humanitarian began early in 2013, planning for a joint venture to a Nepal location where Choice Humanitarian already had a presence. The Kids on Computers® board of directors approved the plan and coordinated with Choice Humanitarian to arrange the September trip.
 
@@ -26,8 +26,8 @@ Although we didn’t set up any new laptops at Duradanda High School, we were ha
 ## Panini Sanskrit Secondary School
 
 ![Panini Sanskrit 1](/img/nepal/panini_sanskrit_1.jpg)
-![Panini Sanskrit 1](/img/nepal/panini_sanskrit_2.jpg)
-![Panini Sanskrit 1](/img/nepal/panini_sanskrit_3.jpg)
+![Panini Sanskrit 2](/img/nepal/panini_sanskrit_2.jpg)
+![Panini Sanskrit 3](/img/nepal/panini_sanskrit_3.jpg)
 
 Panini Sanskrit Secondary School is about a 30 minute “walk” to the west from Sarbodaya College. The school in this community has a goal to preserve and teach cultural traditions and values, including classical Sanskrit.
 
