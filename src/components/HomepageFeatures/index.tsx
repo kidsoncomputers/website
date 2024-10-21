@@ -79,7 +79,16 @@ function KoCMap() {
         </div>
     </div>
   );
+}
 
+function KoCLogo() {
+  return (
+    <div className={clsx('col col--8')}>
+      <div className={styles.logoCentered}>
+        <img src="img/koc-logo-900.png" alt="Kids on Computers" title="Kids on Computers" />
+      </div>
+    </div>
+  );
 }
 
 export default function HomepageFeatures(): JSX.Element {
@@ -100,6 +109,13 @@ export default function HomepageFeatures(): JSX.Element {
           <KoCMap />
           <div className={clsx('col col--2')}></div>
         </div>
+
+        <div className="row">
+          <div className={clsx('col col--2')}></div>
+          <KoCLogo />
+          <div className={clsx('col col--2')}></div>
+        </div>
+
       </div>
     </section>
 );
