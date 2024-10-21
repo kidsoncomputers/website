@@ -1,0 +1,19 @@
+.imageGallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
+    gap: 10px; /* Space between images */
+  }
+  
+.imageItem img {
+    width: 100%; /* Responsive width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px; /* Optional: rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+  }
+  
+.imageCaption {
+    margin-top: 5px; /* Space between image and caption */
+    color: #555; /* Caption text color */
+    font-style: italic;
+    text-align: center; /* Center the caption */
+  }

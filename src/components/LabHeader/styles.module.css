@@ -1,0 +1,27 @@
+
+.table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse; /* Collapse borders */
+  border: 1px solid #dddddd; /* Light gray border */
+}
+
+.tableHeader {
+  display: table-cell;
+  background-color: #f0f0f0; /* Light gray background for header */
+  font-weight: bold;
+}
+
+.tableRow {
+  display: table-row; /* Display rows */
+}
+
+.tableCell {
+  display: table-cell; /* Display cells */
+  padding: 8px; /* Padding inside cells */
+  text-align: left; /* Align text to the left */
+}
+
+.tableCell:hover {
+  background-color: #f9f9f9; /* Light background on hover */
+}
