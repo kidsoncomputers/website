@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://www.paypal.com/us/fundraiser/charity/1477257">
+            to="get-involved/donate">
             Donate via PayPal 💰
           </Link>
         </div>
