@@ -2,6 +2,7 @@
 title: Huajuapan De León
 sidebar_position: 1
 ---
+
 # Huajuapan de León, Oaxaca
 
 ## Escuela 18 de Marzo
@@ -10,7 +11,7 @@ sidebar_position: 1
 
 This school, located in one of the least affluent parts of the city of Huajuapan de León, is one of the first schools to benefit from our efforts. In 2008 and 2009 parents and the school administrators were enthusiastic about the prospects of having a computer lab for the children. They worked together to build a new room on the school site that was intended specifically to house a computer lab. When the expected computers did not arrive, they turned to Kids on Computers® for help. In 2009 Kids on Computers® installed several donated computers in the new lab.
 
-In May 2011 a team of five Kids on Computers® volunteers visited the school again, bringing more computers, updating software, fixing computers that had problems,  and identifying systems that could not be repaired. But, most importantly, they conducted computer training sessions for both students and teachers. Volunteers have visited the school several times since then, addressing problems, updating software, installing new computers, and conducting training.
+In May 2011 a team of five Kids on Computers® volunteers visited the school again, bringing more computers, updating software, fixing computers that had problems, and identifying systems that could not be repaired. But, most importantly, they conducted computer training sessions for both students and teachers. Volunteers have visited the school several times since then, addressing problems, updating software, installing new computers, and conducting training.
 
 This school, which thrives today, is one of the finest examples of cooperation among school administration, a very dedicated teacher, concerned parents, eager students, and Kids on Computers®.
 
