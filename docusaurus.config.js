@@ -121,7 +121,7 @@ const config = {
                             },
                             {
                                 label: 'GitHub',
-                                href: 'https://github.com/kidsoncomputers/website',
+                                href: 'https://github.com/kidsoncomputers',
                             },
                         ],
                     },
