@@ -72,8 +72,12 @@ const config = {
 
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-        ({
-            navbar: {
+        ({     colorMode: {
+                defaultMode: 'light',  // Sets light mode as the default
+                disableSwitch: true,    // Disables the mode switch option
+                respectPrefersColorScheme: false,  // Ignores user's OS preference
+            },
+                navbar: {
                 title: 'Kids on Computers',
                 logo: {
                     alt: 'Kids on Computers',
