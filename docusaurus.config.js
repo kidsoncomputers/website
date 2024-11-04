@@ -91,7 +91,7 @@ const config = {
                         position: 'left',
                         label: 'Labs',
                     },
-                    { to: '/blog', label: 'Blog', position: 'left' },
+                    // { to: '/blog', label: 'Blog', position: 'left' },
                     { 
                         type: 'doc',
                         docId: 'introInvolved',
