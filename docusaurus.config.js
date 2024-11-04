@@ -8,7 +8,7 @@ const config = {
     title: 'Kids on Computers',
     tagline: 'Bringing technology to underprivileged kids worldwide',
     url: 'https://kidsoncomputers.github.io',
-    baseUrl: '/website/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
