@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkko_c_website=self.webpackChunkko_c_website||[]).push([[3944],{1753:e=>{e.exports=JSON.parse('{"title":"Morocco","slug":"/category/morocco","permalink":"/labs/category/morocco","navigation":{"previous":{"title":"Tehuac\xe1n","permalink":"/labs/mexico/tehuacan"},"next":{"title":"Ouaouizerth, Azilal","permalink":"/labs/morocco/ouaouizerth"}}}')}}]);

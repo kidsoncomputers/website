@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkko_c_website=self.webpackChunkko_c_website||[]).push([[3179],{450:e=>{e.exports=JSON.parse('{"title":"Mexico","slug":"/category/mexico","permalink":"/labs/category/mexico","navigation":{"previous":{"title":"St. Mark","permalink":"/labs/kenya/stMark"},"next":{"title":"Huajuapan De Le\xf3n","permalink":"/labs/mexico/huajuapan"}}}')}}]);

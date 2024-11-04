@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkko_c_website=self.webpackChunkko_c_website||[]).push([[7284],{4510:e=>{e.exports=JSON.parse('{"title":"Argentina","slug":"/category/argentina","permalink":"/labs/category/argentina","navigation":{"previous":{"title":"Our Labs","permalink":"/labs/intro"},"next":{"title":"Virreyes Rugby Club","permalink":"/labs/argentina/virreyesRugbyClub"}}}')}}]);
