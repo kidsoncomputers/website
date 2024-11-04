@@ -7,7 +7,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
     title: 'Kids on Computers',
     tagline: 'Bringing technology to underprivileged kids worldwide',
-    url: 'https://kidsoncomputers.github.io',
+    url: 'https://dev.kidsoncomputers.org',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
