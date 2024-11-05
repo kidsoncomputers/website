@@ -6,7 +6,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Kids on Computers',
-    tagline: 'Bringing technology to underprivileged kids worldwide',
+    tagline: 'Bringing technology to underprivileged kids worldwide.',
     url: 'https://dev.kidsoncomputers.org',
     baseUrl: '/',
     onBrokenLinks: 'throw',
