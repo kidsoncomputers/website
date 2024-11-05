@@ -21,3 +21,27 @@
   align-items: center;
   justify-content: center;
 }
+
+.logoCentered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logoCentered img {
+  /* Maintain aspect ratio */
+  height: auto;
+  /* Ensures the logo doesn't get too tall */
+  width: 50vw;
+}
+
+@media screen and (max-width: 800px) {
+  .logoCentered {
+    flex-direction: column;
+  }
+
+  .logoCentered img {
+    width: 100%;
+    height: auto;
+  }
+}
