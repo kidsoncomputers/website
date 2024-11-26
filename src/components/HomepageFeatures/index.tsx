@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
       <>
         Kids on Computers seeks donations and help in a variety of forms. To advance our mission we
         accept monetary donations as well as bulk computer/laptop donations. Cash donations – of any amount
-        – are always useful and...
+        – are always useful!
 
       </>
     ),
@@ -54,7 +54,8 @@ function Feature({title, link, Svg, description}: FeatureItem) {
     <div className={clsx('col col--4')}>
       <a href={link}
         style={{
-          textDecoration: 'none'
+          textDecoration: 'none',
+          color: 'black'
         }}>
         <div className="text--center">
           <Svg className={styles.featureSvg} role="img" />
@@ -81,16 +82,6 @@ function KoCMap() {
   );
 }
 
-function KoCLogo() {
-  return (
-    <div className={clsx('col col--8')}>
-      <div className={styles.logoCentered}>
-        <img src="img/koc-logo-900.png" alt="Kids on Computers" title="Kids on Computers" />
-      </div>
-    </div>
-  );
-}
-
 export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
@@ -109,13 +100,6 @@ export default function HomepageFeatures(): JSX.Element {
           <KoCMap />
           <div className={clsx('col col--2')}></div>
         </div>
-
-        <div className="row">
-          <div className={clsx('col col--2')}></div>
-          <KoCLogo />
-          <div className={clsx('col col--2')}></div>
-        </div>
-
       </div>
     </section>
 );

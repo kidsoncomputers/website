@@ -6,9 +6,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Kids on Computers',
-    tagline: 'Bringing technology to underprivileged kids worldwide',
-    url: 'https://kidsoncomputers.github.io',
-    baseUrl: '/website/',
+    tagline: 'Bringing technology to underprivileged kids worldwide.',
+    url: 'https://dev.kidsoncomputers.org',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
@@ -91,7 +91,7 @@ const config = {
                         position: 'left',
                         label: 'Labs',
                     },
-                    { to: '/blog', label: 'Blog', position: 'left' },
+                    // { to: '/blog', label: 'Blog', position: 'left' },
                     { 
                         type: 'doc',
                         docId: 'introInvolved',

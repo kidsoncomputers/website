@@ -23,8 +23,6 @@ The school, named Association Bienfaisance Ouaouizerth,  is a community effort f
 
 More than 120 students in late teenage years come from homes as much as 50 km distant from the school.  They live at the school while class is in session and go home only for holidays.
 
-[metaslider id=4639]
-
 Cyber cafés in Ouaouizerth  provide access to the internet, but students at the boarding school are at a disadvantage when trying to use them.  The hourly cost is often prohibitive for the boarding school students.  Additionally, the local culture requires girls not to be outside after 6 PM, which is when regular classes end.  Consequently the girls at the school are prevented from going to the cyber cafés after school.  The students would obviously benefit from having computers and internet access at the boarding school.
 
 At the time of the proposal, the only computer at the school was one belonging to the supervisor of students. The Peace Corps volunteer asked Kids on Computers® to provide ten computers for this school, which we were able to do.  We established a lab in October 2014 with ten laptops and a Mac Mini media server.
