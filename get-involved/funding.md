@@ -22,7 +22,7 @@ A $1,500 USD donation will fund a volunteer’s travel expenses to Mexico for at
 
 ### Donate via PayPal
 
-Questions about our Major Funding program? Please contact donations@kidsoncomputers.org or Contact Us.
+Questions about our Major Funding program? Please contact <code>donations at kidsoncomputers.org</code> or Contact Us.
 
-Kids on Computers is a registered 501(c) For U.S. taxpayers, a monetary donation may be tax deductible, but you should consult a qualified tax adviser.
+Kids on Computers is a registered 501(c)(3) For U.S. taxpayers, a monetary donation may be tax deductible, but you should consult a qualified tax adviser.
 
