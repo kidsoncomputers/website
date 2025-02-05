@@ -1,17 +1,31 @@
 name: Mirror to website-prod
 
-on: [push, delete]
+on:
+  workflow_dispatch:
+     inputs:
+      branch:
+        description: 'Select Branch'
+        required: true
+        default: 'main'
+        type: choice
+        options:
+          - main
 
 jobs:
-  to_gitlab:
+  to_website-prod:
     # Only run this from website to website-prod
     if: github.repository == 'kidsoncomputers/website'
+    
     runs-on: ubuntu-latest
     steps:                                              # <-- must use actions/checkout before mirroring!
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          ref: inputs.branch
       - uses: pixta-dev/repository-mirroring-action@v1
         with:          
           target_repo_url:
-            https://github.com/kidsoncomputers/website-prod.git
+            git@github.com:kidsoncomputers/website-prod.git
+          ssh_private_key:
+            ${{ secrets.WEBSITE_PROD_DEPLOY_KEY }}
+  
